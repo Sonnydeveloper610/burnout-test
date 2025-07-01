@@ -1,0 +1,39 @@
+{
+  "title": "Test de Riesgo de Burnout",
+  "start": "Comenzar",
+  "next": "Siguiente",
+  "showResult": "Ver Resultado",
+  "analyzing": "Analizando tu resultado...",
+  "result": "Resultado",
+  "shareResult": "Compartir resultado",
+  "shareApp": "Compartir app",
+  "copyUrl": "Copiar URL",
+  "copied": "¡Copiado!",
+  "question": "Pregunta",
+  "score": "Puntuación",
+  "total": "Total",
+  "grade": "Nivel",
+  "answer_guide": "Selecciona un número. (1: Para nada ~ 5: Muy a menudo)",
+  "answer_scale": {
+    "1": "Para nada",
+    "2": "Casi nunca",
+    "3": "A veces",
+    "4": "A menudo",
+    "5": "Muy a menudo"
+  },
+  "questions": {
+    "q1": "¿Sientes menos motivación en el trabajo últimamente?",
+    "q2": "¿Te cuesta levantarte por la mañana?",
+    "q3": "¿Te sientes cansado incluso después del trabajo o estudio?",
+    "q4": "¿Te sientes escéptico sobre tu trabajo?",
+    "q5": "¿Ha disminuido tu concentración últimamente?",
+    "q6": "¿Sientes que tu trabajo no tiene sentido?",
+    "q7": "¿Tus relaciones con las personas no son tan buenas como antes?",
+    "q8": "¿Te irritas o sensibilizas por cosas pequeñas?",
+    "q9": "¿Tiendes a posponer o evitar el trabajo con más frecuencia?",
+    "q10": "¿A menudo te sientes agotado?"
+  },
+  "result_normal": "Estás dentro del rango normal.",
+  "result_warning": "Necesitas tener cuidado.",
+  "result_high": "Alto riesgo de burnout. Considera consultar a un profesional."
+}

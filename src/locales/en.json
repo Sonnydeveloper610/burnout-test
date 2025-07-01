@@ -1,0 +1,39 @@
+{
+  "title": "Burnout Risk Test",
+  "start": "Start",
+  "next": "Next",
+  "showResult": "Show Result",
+  "analyzing": "Analyzing your result...",
+  "result": "Result",
+  "shareResult": "Share Result",
+  "shareApp": "Share App",
+  "copyUrl": "Copy URL",
+  "copied": "Copied!",
+  "question": "Question",
+  "score": "Score",
+  "total": "Total",
+  "grade": "Grade",
+  "answer_guide": "Please select a number below. (1: Not at all ~ 5: Very much)",
+  "answer_scale": {
+    "1": "Not at all",
+    "2": "Rarely",
+    "3": "Sometimes",
+    "4": "Often",
+    "5": "Very much"
+  },
+  "questions": {
+    "q1": "Do you feel less motivated at work recently?",
+    "q2": "Is it hard to get up in the morning?",
+    "q3": "Do you feel tired even after work or study?",
+    "q4": "Do you feel skeptical about your work?",
+    "q5": "Has your concentration dropped lately?",
+    "q6": "Do you feel your work is meaningless?",
+    "q7": "Are your relationships with people not as good as before?",
+    "q8": "Do you get irritated or sensitive over small things?",
+    "q9": "Do you tend to procrastinate or avoid work more often?",
+    "q10": "Do you often feel exhausted?"
+  },
+  "result_normal": "You are within the normal range.",
+  "result_warning": "You need to be careful.",
+  "result_high": "High risk of burnout. Consider consulting a professional."
+}
